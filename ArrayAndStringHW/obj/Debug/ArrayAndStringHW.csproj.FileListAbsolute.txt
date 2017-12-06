@@ -1,0 +1,6 @@
+C:\Users\1\Source\Repos\PracticeLesson3\ArrayAndStringHW\ArrayAndStringHW\bin\Debug\ArrayAndStringHW.exe.config
+C:\Users\1\Source\Repos\PracticeLesson3\ArrayAndStringHW\ArrayAndStringHW\bin\Debug\ArrayAndStringHW.exe
+C:\Users\1\Source\Repos\PracticeLesson3\ArrayAndStringHW\ArrayAndStringHW\bin\Debug\ArrayAndStringHW.pdb
+C:\Users\1\Source\Repos\PracticeLesson3\ArrayAndStringHW\ArrayAndStringHW\obj\Debug\ArrayAndStringHW.csprojResolveAssemblyReference.cache
+C:\Users\1\Source\Repos\PracticeLesson3\ArrayAndStringHW\ArrayAndStringHW\obj\Debug\ArrayAndStringHW.exe
+C:\Users\1\Source\Repos\PracticeLesson3\ArrayAndStringHW\ArrayAndStringHW\obj\Debug\ArrayAndStringHW.pdb
